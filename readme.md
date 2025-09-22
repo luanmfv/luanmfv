@@ -1,5 +1,6 @@
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=mysql)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60"/>
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luanmiguel&show_icons=true&theme=radical)
+
+
